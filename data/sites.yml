@@ -358,6 +358,8 @@ built:
     title: "CSS Borders"
   - url: https://www.affirm.com
     title: "Affirm"
+  - url: https://docs.mapwize.io
+    title: Mapwize - Indoor mapping platform | Support Center      
 
 mobile:
   - url: http://pollev.com
@@ -552,4 +554,4 @@ blogs:
   - url: https://www.livechatlabs.com/
     title: Live Chat Labs
   - url: https://bastienrobert.fr
-    title: Bastien Robert - Creative developer from Paris
+    title: Bastien Robert - Creative developer from Paris  
